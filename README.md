@@ -2,10 +2,16 @@
 
 Кнопка для перехода с сайта в сообщения сообщества.
 
+###Примеры
+- https://botpult.com/vk-chat-button/demo-line-xs.html 
+- https://botpult.com/vk-chat-button/demo-line.html 
+- https://botpult.com/vk-chat-button/demo.html 
+- https://botpult.com/vk-chat-button/demo-circle.html
+
 ###Подключение
 
 - Скачайте файл `botpult-button.min.css`
-- Вставьте код перед закрывающимся тегом ```<body>``` и замените ```ID_Сообщества``` на id вашего сообщства вконткте
+- Вставьте код перед закрывающимся тегом ```<body>``` и замените ```ID_Сообщества``` на id вашего сообщества ВКонтакте
 ```html
 <!-- Botpult button -->
 <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
@@ -31,7 +37,7 @@ css класс | вид
 
 ####Положение на старинце
 
-Доступны 4 разных варианта расположения на старинце, просто добавьте css класс к div элементу
+Доступны 4 разных варианта расположения на странице, просто добавьте css класс к div элементу
 ```html
 <div class="BotpultButton right-bottom" ...>
 ```
