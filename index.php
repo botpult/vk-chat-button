@@ -154,7 +154,7 @@
 <!-- Botpult button -->
 <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 <link href="https://botpult.com/button/botpult-button.min.css" rel="stylesheet" type="text/css">
-<div class="BotpultButton right-bottom" onclick="window.open('https://vk.com/public' + 101862679, '_blank').focus()">
+<div class="BotpultButton right-bottom" onclick="window.open('https://vk.me/public' + 101862679, '_blank').focus()">
     <span class="text">Напишите нам!</span>
 </div>
 <!--End of botpult button -->
