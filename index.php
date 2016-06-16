@@ -65,7 +65,7 @@
 
     <h3>Подключение</h3>
     <p>Вставьте код перед закрывающимся тегом <code>&lt;body&gt;</code> и замените <strong
-            class="red">Короткий_адрес</strong> на короткий адрес вашего сообщества ВКонтакте</p>
+            class="red">Короткий_адрес</strong> на короткий адрес вашего сообщества ВКонтакте (Например: apiclub или public1)</p>
     <pre style="background:#fff;color:#000;"><span style="color:#00b418">&lt;!-- Botpult button --></span>
 <span style="color:#1c02ff">&lt;<span style="font-weight:700">link</span> <span
         style="font-style:italic">href</span>=<span style="color:#d80800">'https://fonts.googleapis.com/css?family=Open+Sans'</span> <span
@@ -78,7 +78,7 @@
 <span style="color:#1c02ff">&lt;<span style="font-weight:700">div</span> <span
         style="font-style:italic">class</span>=<span style="color:#d80800">"BotpultButton right-bottom"</span> <span
         style="font-style:italic">onclick</span>=<span
-        style="color:#d80800">"window.open('https://vk.me/' + <strong>Короткий_адрес</strong>, '_blank').focus()"</span>></span>
+        style="color:#d80800">"window.open('https://vk.me/<strong>Короткий_адрес</strong>', '_blank').focus()"</span>></span>
     <span style="color:#1c02ff">&lt;<span style="font-weight:700">span</span> <span
             style="font-style:italic">class</span>=<span style="color:#d80800">"text"</span>></span>Напишите нам!<span
                 style="color:#1c02ff">&lt;/<span style="font-weight:700">span</span>></span>
