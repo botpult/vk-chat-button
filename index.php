@@ -128,7 +128,7 @@
         </tbody>
     </table>
 
-    <h3>Положение на старинце</h3>
+    <h3>Положение на странице</h3>
 
     <p>Доступны 4 разных варианта расположения на странице, просто добавьте css класс к div элементу</p>
 
@@ -147,7 +147,7 @@
 <div class="ui inverted vertical footer segment">
     <div class="ui center aligned container">
         <div class="ui horizontal inverted small divided link list">
-            <a class="item" href="https://botpult.com">Botpult &copy; 2016</a>
+            Поставили кнопку? А теперь <a href="https://botpult.com">сделайте бота для ВКонтакте</a>, чтобы работать с пользователями.
         </div>
     </div>
 </div>
